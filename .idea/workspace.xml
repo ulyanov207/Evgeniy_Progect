@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eda2c85d-72e0-4812-904c-c3e07ae8b8a3" name="Default Changelist" comment="">
+    <list default="true" id="eda2c85d-72e0-4812-904c-c3e07ae8b8a3" name="Default Changelist" comment="new commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -113,6 +114,7 @@
       <workItem from="1648046909101" duration="599000" />
       <workItem from="1648106978724" duration="13000" />
       <workItem from="1648106999991" duration="64000" />
+      <workItem from="1652376716149" duration="2651000" />
     </task>
     <task id="LOCAL-00001" summary="new commit">
       <created>1644828449146</created>
@@ -121,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644828449146</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new commit">
+      <created>1652376871701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652376871701</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +141,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -144,17 +159,36 @@
     <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644828811337">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="-1023" y="73" key="#Deployment" timestamp="1652377566617">
+      <screen x="-1280" y="0" width="1280" height="984" />
     </state>
+    <state x="-1023" y="73" key="#Deployment/-1280.0.1280.984/0.0.1366.728@-1280.0.1280.984" timestamp="1652377566617" />
+    <state x="-1152" y="26" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652377110793">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state x="-1152" y="26" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.0.1280.984/0.0.1366.728@-1280.0.1280.984" timestamp="1652377110793" />
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.0.1280.984/0.0.1366.728@0.0.1366.728" timestamp="1644828811337" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1644828447729">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="-904" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1652376800215">
+      <screen x="-1280" y="0" width="1280" height="984" />
     </state>
+    <state x="-904" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1280.0.1280.984/0.0.1366.728@-1280.0.1280.984" timestamp="1652376800215" />
+    <state x="-929" y="66" key="CommitChangelistDialog2" timestamp="1652377654596">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state x="-929" y="66" key="CommitChangelistDialog2/-1280.0.1280.984/0.0.1366.728@-1280.0.1280.984" timestamp="1652377654596" />
     <state x="283" y="0" key="CommitChangelistDialog2/-1280.0.1280.984/0.0.1366.728@0.0.1366.728" timestamp="1644828447729" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1644828617127">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="-860" y="247" key="FileChooserDialogImpl" timestamp="1652377186455">
+      <screen x="-1280" y="0" width="1280" height="984" />
     </state>
+    <state x="-860" y="247" key="FileChooserDialogImpl/-1280.0.1280.984/0.0.1366.728@-1280.0.1280.984" timestamp="1652377186455" />
+    <state x="-810" y="360" key="VCS.EditChangelistDialog" timestamp="1652385745169">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state x="-810" y="360" key="VCS.EditChangelistDialog/-1280.0.1280.984/0.0.1366.728@-1280.0.1280.984" timestamp="1652385745169" />
+    <state x="-1022" y="131" key="Vcs.Push.Dialog.v2" timestamp="1652377300527">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state x="-1022" y="131" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1366.728@-1280.0.1280.984" timestamp="1652377300527" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1366.728@0.0.1366.728" timestamp="1644828617127" />
   </component>
 </project>
