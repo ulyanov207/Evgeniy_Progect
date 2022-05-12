@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="eda2c85d-72e0-4812-904c-c3e07ae8b8a3" name="Default Changelist" comment="" />
+    <list default="true" id="eda2c85d-72e0-4812-904c-c3e07ae8b8a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +35,15 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/flex" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/flex/index.html" root0="SKIP_INSPECTION" />
@@ -31,6 +60,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="24mADNDQ3qc6lyhGoV7XFHsPjzu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,16 +95,66 @@
       <workItem from="1644405260875" duration="1920000" />
       <workItem from="1644590871121" duration="465000" />
       <workItem from="1644688084879" duration="5629000" />
+      <workItem from="1644828217577" duration="1266000" />
+      <workItem from="1645021423712" duration="33000" />
+      <workItem from="1645041637436" duration="4000" />
+      <workItem from="1647012593770" duration="182000" />
+      <workItem from="1647087763413" duration="1509000" />
+      <workItem from="1647159007141" duration="1198000" />
+      <workItem from="1647245388683" duration="599000" />
+      <workItem from="1647341989816" duration="598000" />
+      <workItem from="1647414812787" duration="1304000" />
+      <workItem from="1647522939292" duration="599000" />
+      <workItem from="1647587995903" duration="599000" />
+      <workItem from="1647681840646" duration="1198000" />
+      <workItem from="1647851243852" duration="1198000" />
+      <workItem from="1647938347503" duration="599000" />
+      <workItem from="1648029394584" duration="599000" />
+      <workItem from="1648046909101" duration="599000" />
+      <workItem from="1648106978724" duration="13000" />
+      <workItem from="1648106999991" duration="64000" />
     </task>
+    <task id="LOCAL-00001" summary="new commit">
+      <created>1644828449146</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644828449146</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644693746774">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644828811337">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.0.1280.984/0.0.1366.728@0.0.1366.728" timestamp="1644693746774" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.0.1280.984/0.0.1366.728@0.0.1366.728" timestamp="1644828811337" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1644828447729">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/-1280.0.1280.984/0.0.1366.728@0.0.1366.728" timestamp="1644828447729" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1644828617127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1366.728@0.0.1366.728" timestamp="1644828617127" />
   </component>
 </project>
